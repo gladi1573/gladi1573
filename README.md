@@ -1,6 +1,6 @@
 ## Hi, I'm Shivshakti (Shiva) Dass 👋
 
-Final-year Digital Science undergraduate at **Aston University**, Birmingham, UK — planning to continue on to postgraduate study.
+Final-year Computer Science (BSc) student at **Aston University**, Birmingham, UK — planning to continue on to postgraduate study.
 
 - 🎓 Currently completing my final-year individual project: a **Flask web dashboard for analysing UK road safety data**
 - 🛠️ Working with **Python, Flask, SQL, HTML/CSS, Git, Linux** and **Blender**
